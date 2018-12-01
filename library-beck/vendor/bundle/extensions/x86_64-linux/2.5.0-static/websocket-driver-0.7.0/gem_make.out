@@ -1,0 +1,15 @@
+current directory: /home/tatev/Desktop/library-beck/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/home/tatev/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181129-51322-1a9t4f6.rb extconf.rb
+creating Makefile
+
+current directory: /home/tatev/Desktop/library-beck/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/tatev/Desktop/library-beck/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/tatev/Desktop/library-beck/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20181129-51322-5cuy3n
